@@ -1,2 +1,2 @@
-# sql_projects
-Projects practicing SQL concepts 
+# SQL Projects 
+Projects practicing SQL concepts on interesting datasets 
